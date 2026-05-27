@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/developerFolio-master/static/css/main.76c89acc.css",
-    "main.js": "/developerFolio-master/static/js/main.ba1ddfba.js",
-    "static/css/64.bba8fa55.chunk.css": "/developerFolio-master/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.98920275.chunk.js": "/developerFolio-master/static/js/64.98920275.chunk.js",
-    "static/css/769.b3cbb36b.chunk.css": "/developerFolio-master/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.88165ab4.chunk.js": "/developerFolio-master/static/js/769.88165ab4.chunk.js",
-    "static/media/harvardLogo.png": "/developerFolio-master/static/media/harvardLogo.cb1358caf56b13c0f73f.png",
-    "static/media/Montserrat-Regular.ttf": "/developerFolio-master/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/Agustina.woff": "/developerFolio-master/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/profile.jpeg": "/developerFolio-master/static/media/profile.b55d03b771a73a34851d.jpeg",
-    "static/media/contactMailDark.svg": "/developerFolio-master/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
-    "static/media/developerActivity.svg": "/developerFolio-master/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/skill.svg": "/developerFolio-master/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "index.html": "/developerFolio-master/index.html",
-    "static/media/talksCardBack.svg": "/developerFolio-master/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.76c89acc.css.map": "/developerFolio-master/static/css/main.76c89acc.css.map",
-    "main.ba1ddfba.js.map": "/developerFolio-master/static/js/main.ba1ddfba.js.map",
-    "64.bba8fa55.chunk.css.map": "/developerFolio-master/static/css/64.bba8fa55.chunk.css.map",
-    "64.98920275.chunk.js.map": "/developerFolio-master/static/js/64.98920275.chunk.js.map",
-    "769.b3cbb36b.chunk.css.map": "/developerFolio-master/static/css/769.b3cbb36b.chunk.css.map",
-    "769.88165ab4.chunk.js.map": "/developerFolio-master/static/js/769.88165ab4.chunk.js.map"
+    "main.css": "/kirti-sharma-portfolio/static/css/main.9a93dac7.css",
+    "main.js": "/kirti-sharma-portfolio/static/js/main.4c431c79.js",
+    "static/css/64.bba8fa55.chunk.css": "/kirti-sharma-portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.98920275.chunk.js": "/kirti-sharma-portfolio/static/js/64.98920275.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/kirti-sharma-portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.88165ab4.chunk.js": "/kirti-sharma-portfolio/static/js/769.88165ab4.chunk.js",
+    "static/media/harvardLogo.png": "/kirti-sharma-portfolio/static/media/harvardLogo.cb1358caf56b13c0f73f.png",
+    "static/media/Montserrat-Regular.ttf": "/kirti-sharma-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/kirti-sharma-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/profile.jpeg": "/kirti-sharma-portfolio/static/media/profile.b55d03b771a73a34851d.jpeg",
+    "static/media/contactMailDark.svg": "/kirti-sharma-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/kirti-sharma-portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/kirti-sharma-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/kirti-sharma-portfolio/index.html",
+    "static/media/talksCardBack.svg": "/kirti-sharma-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.9a93dac7.css.map": "/kirti-sharma-portfolio/static/css/main.9a93dac7.css.map",
+    "main.4c431c79.js.map": "/kirti-sharma-portfolio/static/js/main.4c431c79.js.map",
+    "64.bba8fa55.chunk.css.map": "/kirti-sharma-portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.98920275.chunk.js.map": "/kirti-sharma-portfolio/static/js/64.98920275.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/kirti-sharma-portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.88165ab4.chunk.js.map": "/kirti-sharma-portfolio/static/js/769.88165ab4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76c89acc.css",
-    "static/js/main.ba1ddfba.js"
+    "static/css/main.9a93dac7.css",
+    "static/js/main.4c431c79.js"
   ]
 }
